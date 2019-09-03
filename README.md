@@ -13,8 +13,8 @@ First install all the basic dependencies for newbies.
 
 > yarn add react react-dom prop-types
 
-Create your babel.config.js and export all the necessary configs.
-Create your webpack.config and export all the necessary configs.
+Create your babel.config.js and webpack.config so you can export all the necessary configs.
+
 Create the folders ./public and ./src having index.js file inside "src" and index.html inside "public".
 
 The rest you can see this example so you will understand the structure.
